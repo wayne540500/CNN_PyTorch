@@ -2,8 +2,6 @@ Iris Classification with Neural Networks
 Project Overview
 This repository contains a Jupyter notebook demonstrating the use of neural networks to classify the Iris dataset, a classic dataset in machine learning. The notebook utilizes PyTorch, a popular library for building neural networks, and presents a concise yet comprehensive workflow including data preprocessing, model definition, training, and evaluation.
 
-![image](https://github.com/wayne540500/CNN_PyTorch/assets/69573286/43380911-8bea-4e4f-8103-485415edd679)
-
 Getting Started
 Prerequisites
 Python 3.x
