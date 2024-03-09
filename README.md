@@ -52,3 +52,5 @@ Feel free to fork the repository, make changes, and submit pull requests. Any co
 
 License
 Distributed under the MIT License. See LICENSE for more information
+
+<script src="https://gist.github.com/curran/a08a1080b88344b0c8a7.js"></script>
